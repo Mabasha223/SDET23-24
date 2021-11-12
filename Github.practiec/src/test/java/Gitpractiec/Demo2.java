@@ -6,5 +6,8 @@ public class Demo2 {
 	@Test
 public void demoprac() {
 	System.out.println("From Demo........3");
+	System.out.println("changes...");
+	
+	
 }
 }
