@@ -7,6 +7,7 @@ public class Demo2 {
 public void demoprac() {
 	System.out.println("From Demo........3");
 	System.out.println("changes...");
+	System.out.println("conflict....");
 	
 	
 }
