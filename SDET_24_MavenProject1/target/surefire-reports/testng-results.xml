@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="164419" started-at="2021-11-14T11:34:32 IST" finished-at="2021-11-14T11:37:17 IST">
+    <groups>
+      <group name="Smoketesting">
+        <method signature="Organization_contactTest.Organization()[pri:0, instance:com.crm.comcast.OrgnizationTest.Organization_contactTest@4d3167f4]" name="Organization" class="com.crm.comcast.OrgnizationTest.Organization_contactTest"/>
+      </group> <!-- Smoketesting -->
+      <group name="Regression">
+        <method signature="Organization_contactTest.Organization()[pri:0, instance:com.crm.comcast.OrgnizationTest.Organization_contactTest@4d3167f4]" name="Organization" class="com.crm.comcast.OrgnizationTest.Organization_contactTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Test" duration-ms="164419" started-at="2021-11-14T11:34:32 IST" finished-at="2021-11-14T11:37:17 IST">
+      <class name="com.crm.comcast.OrgnizationTest.Organization_contactTest">
+        <test-method status="PASS" signature="ConfigDataBase()[pri:0, instance:com.crm.comcast.OrgnizationTest.Organization_contactTest@4d3167f4]" name="ConfigDataBase" is-config="true" duration-ms="22" started-at="2021-11-14T11:34:32 IST" finished-at="2021-11-14T11:34:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigDataBase -->
+        <test-method status="PASS" signature="ConfigLunchBrowser()[pri:0, instance:com.crm.comcast.OrgnizationTest.Organization_contactTest@4d3167f4]" name="ConfigLunchBrowser" is-config="true" duration-ms="25132" started-at="2021-11-14T11:34:32 IST" finished-at="2021-11-14T11:34:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigLunchBrowser -->
+        <test-method status="PASS" signature="ConfigLogin()[pri:0, instance:com.crm.comcast.OrgnizationTest.Organization_contactTest@4d3167f4]" name="ConfigLogin" is-config="true" duration-ms="81895" started-at="2021-11-14T11:34:57 IST" finished-at="2021-11-14T11:36:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigLogin -->
+        <test-method status="PASS" signature="Organization()[pri:0, instance:com.crm.comcast.OrgnizationTest.Organization_contactTest@4d3167f4]" name="Organization" duration-ms="51908" started-at="2021-11-14T11:36:19 IST" finished-at="2021-11-14T11:37:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Organization -->
+        <test-method status="PASS" signature="ConfigSignOut()[pri:0, instance:com.crm.comcast.OrgnizationTest.Organization_contactTest@4d3167f4]" name="ConfigSignOut" is-config="true" duration-ms="4596" started-at="2021-11-14T11:37:11 IST" finished-at="2021-11-14T11:37:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigSignOut -->
+        <test-method status="PASS" signature="ConfigCloseBrowser()[pri:0, instance:com.crm.comcast.OrgnizationTest.Organization_contactTest@4d3167f4]" name="ConfigCloseBrowser" is-config="true" duration-ms="817" started-at="2021-11-14T11:37:16 IST" finished-at="2021-11-14T11:37:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigCloseBrowser -->
+        <test-method status="PASS" signature="ConfigCloseDb()[pri:0, instance:com.crm.comcast.OrgnizationTest.Organization_contactTest@4d3167f4]" name="ConfigCloseDb" is-config="true" duration-ms="1" started-at="2021-11-14T11:37:21 IST" finished-at="2021-11-14T11:37:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigCloseDb -->
+      </class> <!-- com.crm.comcast.OrgnizationTest.Organization_contactTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

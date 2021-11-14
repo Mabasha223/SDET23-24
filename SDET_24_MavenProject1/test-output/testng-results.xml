@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-10T23:24:00 IST" name="Default suite" finished-at="2021-11-10T23:24:52 IST" duration-ms="52051">
+    <groups>
+    </groups>
+    <test started-at="2021-11-10T23:24:00 IST" name="Default test" finished-at="2021-11-10T23:24:52 IST" duration-ms="52051">
+      <class name="practice.MakeMyTripTest">
+        <test-method signature="Booking()[pri:0, instance:practice.MakeMyTripTest@5d7148e2]" started-at="2021-11-10T23:24:00 IST" name="Booking" finished-at="2021-11-10T23:24:52 IST" duration-ms="51703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking -->
+      </class> <!-- practice.MakeMyTripTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
